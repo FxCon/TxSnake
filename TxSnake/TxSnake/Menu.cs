@@ -55,7 +55,7 @@ namespace TxSnake
                 {
                     if (focused == 0)
                     {
-
+                        return;
                     } else if (focused == 1)
                     {
                         ShowHowToPlay();
